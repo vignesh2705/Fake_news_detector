@@ -82,7 +82,7 @@ Then open `http://localhost:5000` in your browser.
 
 ## 📸 Screenshot
 
-![App Screenshot](screenshot.png) *(Replace with actual screenshot if needed)*
+![App Screenshot](screenshot.png) 
 
 ---
 
